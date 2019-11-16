@@ -1,5 +1,5 @@
 # NVL-HTML-LaLiga
-<p>En esta tabla lo que vamos a ver es una clasificacióna de los equipos de la Liga de España</p>
+<p>En esta tabla lo que vamos a ver es una clasificación de los equipos de la Liga de España</p>
 <ol>
   <li>Barcelona</li>
   <li>Real Madrid</li>
